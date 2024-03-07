@@ -5,6 +5,7 @@ Made with PyGame
 
 import pygame, sys, time, random
 
+#Learning how to to PR
 
 # Difficulty settings
 # Easy      ->  10
